@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">RoShamBoPlus</string>
+    <string name="rules_of_the_game">Rules of the game</string>
+</resources>
